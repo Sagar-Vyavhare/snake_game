@@ -24,11 +24,11 @@ body {
   /* gap: 1px; */
 }
 .snake {
-  /* width: 10px; */
-  /* aspect-ratio: 1/1; */
+  width: 10px;
+  aspect-ratio: 1/1;
   background-color: red;
   border-radius: 3px 3px 0 0;
-  /* position: absolute; */
+  position: absolute;
 }
 .foods{
   background: #1100ff;
